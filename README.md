@@ -4,8 +4,7 @@ My name is Genesis Cevallos. This is my GitHub repo for CPE322 with Professor Ke
 
 # Links
 
-- [LinkedIn](
-[GitHub Pages](https://www.linkedin.com/in/g-cevallos101/)
+- [LinkedIn](https://www.linkedin.com/in/g-cevallos101/)
 - Group Website (link tba)
 
 ## Background
