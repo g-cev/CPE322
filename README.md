@@ -2,7 +2,7 @@
 ## Introduction
 My name is Genesis Cevallos. This is my GitHub repo for CPE322 with Professor Kevin Lu. I am currently a 4/5 CPE student at Stevens Institute of Technology.
 
-# Links
+## Links
 
 - [Check out my LinkedIn!](https://www.linkedin.com/in/g-cevallos101/)
 - Group Website (link tba)
