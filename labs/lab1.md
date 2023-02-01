@@ -32,8 +32,8 @@ $ gtkwave mux.vcd
 ```
 
 ### Results
+![results](https://user-images.githubusercontent.com/87401577/215930181-c3c69c84-f88f-4d8c-bd24-431439dc2a78.PNG)
 
 ## What I Learned
-
 ![code setup](https://user-images.githubusercontent.com/87401577/215926530-f134a2be-fbd2-4a7f-9890-cfabdad36c5e.PNG)
 
