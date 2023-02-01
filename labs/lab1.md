@@ -5,9 +5,16 @@
 ### Procedure
 
 ![terminal](https://user-images.githubusercontent.com/87401577/215926611-3ec80b37-46a4-4c17-b5e4-5ad91ab73cf6.PNG)
-'''
-test if code works
-'''
+
+```
+$ cd C:/eda/half adder
+$ ghdl -a ha.vhdl
+$ ghdl -a ha_tb.vhdl
+$ ghdl -e ha_tb
+$ ghdl -r ha_tb --vcd=ha.vcd
+$ gtkwave ha.vcd
+
+```
 
 
 ### Results
