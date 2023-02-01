@@ -4,8 +4,6 @@
 
 ### Procedure
 
-![terminal](https://user-images.githubusercontent.com/87401577/215926611-3ec80b37-46a4-4c17-b5e4-5ad91ab73cf6.PNG)
-
 ```
 $ cd C:/eda/half adder
 $ ghdl -a ha.vhdl
@@ -13,7 +11,6 @@ $ ghdl -a ha_tb.vhdl
 $ ghdl -e ha_tb
 $ ghdl -r ha_tb --vcd=ha.vcd
 $ gtkwave ha.vcd
-
 ```
 
 
@@ -24,6 +21,15 @@ $ gtkwave ha.vcd
 ## 4-to-1 Multiplexer
 
 ### Procedure
+
+```
+$ cd C:/eda/4to1MUX
+$ ghdl -a mux.vhdl
+$ ghdl -a mux_tb.vhdl
+$ ghdl -e mux_tb
+$ ghdl -r mux_tb --vcd=mux.vcd
+$ gtkwave mux.vcd
+```
 
 ### Results
 
