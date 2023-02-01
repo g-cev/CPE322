@@ -22,6 +22,3 @@ Besides computer engineering, my other interests include:
 - Really good chicken parmesean 
 
 
-
-
-**not finished yet, only submitted link for canvas assignment
