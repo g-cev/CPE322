@@ -1,4 +1,10 @@
-# Lab 1: Half Adder
+# Lab 1: Half Adder and 4-to-1 Multiplexer
 
-## Current Mistakes I found:
-- "half addr" spelling typo in ha_tb.vhdl file from repo <- line 23
+## Instructions
+
+## Procedure
+
+## What I Learned
+
+## Results
+
