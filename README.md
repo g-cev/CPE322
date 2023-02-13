@@ -17,6 +17,8 @@ Besides computer engineering, my other interests include:
 - Baking pies
 - Really good chicken parmesean 
 
+## Assignment Progress
+
 [Assignment Canvas Page](https://sit.instructure.com/courses/64902/assignments)
 - [x] Assignment 0: GitHub Repository 
 - [x] Assignment 1: Project Site
