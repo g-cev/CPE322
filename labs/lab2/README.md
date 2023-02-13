@@ -151,7 +151,7 @@ This command clears the terminal.
 
 ### ```$ man uname``` Or ```$ uname --help```
 
-![clear terminal command](../lab2/assets/man uname.PNG)
+![clear terminal command](../lab2/assets/man%20uname.PNG)
 
 This command outputs information about the Operating System, the system host name, or hardware to the standard output.
 
@@ -175,7 +175,7 @@ This command displays all current TCP/IP network configuration values and refres
 
 ### ```$ ping localhost```
 
-![ping localhost command](../lab2/assets/ping localhost.PNG)
+![ping localhost command](../lab2/assets/ping%20localhost.PNG)
 
 This command pings the local IP address. "Localhost" is the default name describing the local computer address a.k.a. the loopback address.
 
