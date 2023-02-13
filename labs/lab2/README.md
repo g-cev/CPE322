@@ -105,22 +105,87 @@ The "git clone" command clones the contents of the GitHub repository onto your s
 The "cd" command means "change directory". It will change the directory to the next place in a path written after it.
 The "ls" command lists the files of the current directory.
 
-#```df```
+# ```$ df```
 
 ![df command](../lab2/assets/df.PNG)
 
 This command is used to view the amount of free diskspace on a server.
 
-#```df```
+# ```$ mkdir demo```
 
-![df command](../lab2/assets/df.PNG)
+![mkdir command](../lab2/assets/mkdir_demo.PNG)
 
-This command is used to view the amount of free diskspace on a server.
+The "mkdir" command stands for "make directory". This command is used to make a new folder at the user's current directory. In this instance, adding the "demo" after the command creates a folder named "demo".
 
+# ```$ nano file```
 
+![nano text editor](../lab2/assets/nano.PNG)
+
+The "nano file" command opens up a file named "file" in the terminal-based text editor, Nano. 
+
+# ```$ cat file```
 
 ![cat file command](../lab2/assets/cat_file.PNG)
 
+The "cat" command reads each file parameter in "file" one after the other and outputs it in the terminal.
+
+# File Manipulation
+
+```
+$ cp file file1
+$ mv file file2
+$ rm file2
+```
+![copy file command](../lab2/assets/cp_file_file1.PNG)
+![move file command](../lab2/assets/mv_file_file2.PNG)
+![remove file command](../lab2/assets/rm_file2.PNG)
+
+These command lines contain the commands for the following:
+- "Copy": This command copies the first file to the second file. If no second file exists, it creates a file with the second file name. 
+- "Move": This command overwrites the second file with the first file by moving its contents to the new destination. If no second file exists, it creates a file with the second file name. 
+- "Remove": This command deletes the file named in the command line. 
+
+# ```$ clear```
+
+![clear terminal command](../lab2/assets/clear.PNG)
+
+This command clears the terminal. 
+
+# ```$ man uname``` Or ```$ uname --help```
+
+![clear terminal command](../lab2/assets/man uname.PNG)
+
+This command outputs information about the Operating System, the system host name, or hardware to the standard output.
+
+# ```$ uname -a```
+
+![clear terminal command](../lab2/assets/uname_-a.PNG)
+
+This command prints all of the following information:
+- Kernel name, release, and version
+- Network node hostname
+- Machine hardware name
+- Processor type
+- Hardware platform
+- Operating system
+
+# ```$ ipconfig``` Or ```$ ifconfig```
+
+![ifconfig command](../lab2/assets/ifconfig.PNG)
+
+This command displays all current TCP/IP network configuration values and refreshes DHCP and DNS settings.
+
+# ```$ ping localhost```
+
+![ping localhost command](../lab2/assets/ping localhost.PNG)
+
+This command pings the local IP address. "Localhost" is the default name describing the local computer address a.k.a. the loopback address.
+
+# ```$ netstat```
+
+![netstat command](../lab2/assets/netstat.PNG)
+
+This command provides statistics about all active connections so you can find out which computers or networks a PC is connected to.
 
 ## What I Learned
 
