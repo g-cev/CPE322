@@ -187,4 +187,8 @@ This command provides statistics about all active connections so you can find ou
 
 ## What I Learned
 
-This lab taught me about Nano, a simple terminal-based text editor, along with several terminal commands that can manipulate file directories. Before this assignment, I did not realize that Windows-equivalent Linux commands existed. I am planning on uploading my GitHub repository to my personal files and practice commands for tasks that I would usually execute in the browser. 
+This lab taught me about Nano, a simple terminal-based text editor, along with several terminal commands that can manipulate file directories. Before this assignment, I did not realize that Windows-equivalent Linux commands existed.
+
+I plan to upload my GitHub repository to my personal files and practice commands for tasks that I would usually execute in the browser. 
+
+
