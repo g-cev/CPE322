@@ -2,7 +2,11 @@
 
 ### Procedure
 
-Below are the commands that were provided for this lab. Since I am not using a Linux machine, there will be an alternate version underneath containing the equivalent commands for Windows.
+Below are the commands that were provided for this lab. Since I am not using a Linux machine, there will be an alternate version underneath containing the equivalent commands for Windows. The main differences are:
+```
+$ man uname -> $ uname --help
+$ ifconfig -> $ ipconfig
+```
 
 Linux Commands:
 ```
@@ -50,9 +54,9 @@ $ cp file file1
 $ mv file file2
 $ rm file2
 $ clear
-**$ uname --help**
+$ uname --help
 $ uname -a
-**$ ipconfig**
+$ ipconfig
 $ ping localhost
 $ netstat
 
