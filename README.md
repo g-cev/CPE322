@@ -23,8 +23,8 @@ Besides computer engineering, my other interests include:
 - [x] Assignment 0: GitHub Repository 
 - [x] Assignment 1: Project Site
 - [x] Assignment 2: Needs Assessment
-- [ ] Assignment 3: Problem Formulation
-- [ ] Assignment 4: Solution Development
+- [x] Assignment 3: Problem Formulation
+- [x] Assignment 4: Solution Development
 - [ ] Assignment 5: Intellectual Properties
 - [ ] Assignment 6: Abstraction and Modeling
 - [ ] Assignment 7: Synthesis
