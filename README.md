@@ -5,7 +5,7 @@ My name is Genesis Cevallos. This is my GitHub repo for CPE322 with Professor Ke
 ## Links
 
 - [Check out my LinkedIn!](https://www.linkedin.com/in/g-cevallos101/)
-- Group Website (link tba)
+- [Group Website](https://sites.google.com/stevens.edu/s23ee-cpe322/home)
 
 ## Background
 My interest in computers and coding began in sophomore year of high school, where one of the art classes taught us how to use JavaScript to code shapes into drawings.
