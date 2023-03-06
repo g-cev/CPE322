@@ -1,6 +1,6 @@
-#Lab 6: Node.js and Pystache
+# Lab 6: Node.js and Pystache
 
-##Procedure
+## Procedure
 
 First, I downloaded Node.js on my Windows machine. Note: pip package re-installation is required. 
 
