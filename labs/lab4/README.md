@@ -2,22 +2,30 @@
 
 ### Procedure
 
-I first tried downloaded Django through Windows terminal, but instead updated my pip version since I was notified to do so. 
+Installed Django and Django REST framework:
 
-```$ python.exe -m pip install --upgrade pip```
+![install Django](../lab4/assets/installDjango.PNG)
 
-![required packages command](../lab3/assets/req_packages.PNG)
+Used the default database, i.e., SQLite:
 
-After this, I downloaded the requested packages.
+![install MariaDB](../lab4/assets/installMariaDB.PNG)
 
-```
-list packages here
-```
+Started Django project "stevens," ran server, and viewed app:
 
-Next, I installed the MariaDB server and client:
+![create database](../lab4/assets/creatingDatabaseStevens.PNG)
 
+![create API](../lab4/assets/creatingAPIforStevens.PNG)
 
+![enter data](../lab4/assets/enterDataVNC.PNG)
 
-### Results
+![Stevens app](../lab4/assets/StevensFinal.PNG)
 
-## What I Learned
+Started Django REST project "mycpu," run server, and attempted to view app:
+
+![REST 1](../lab4/assets/REST1.PNG)
+
+![REST 2](../lab4/assets/RESTFinal.PNG)
+
+Ran Flask server via hello_world.py and view app:
+
+![flask app](../lab4/assets/flask.PNG)
