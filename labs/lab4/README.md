@@ -14,7 +14,7 @@ Started Django project "stevens," ran server, and viewed app:
 
 ![create database](../lab4/assets/creatingDatabaseStevens.png)
 
-![create API](../lab4/assets/creatingAPIforStevens.png)
+![create API](../lab4/assets/createAPIforStevens.png)
 
 ![enter data](../lab4/assets/enterDataVNC.png)
 
