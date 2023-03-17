@@ -20,12 +20,12 @@ Started Django project "stevens," ran server, and viewed app:
 
 ![Stevens app](../lab4/assets/StevensFinal.png)
 
-Started Django REST project "mycpu," run server, and attempted to view app:
+Started Django REST project "mycpu," ran server, and attempted to view app:
 
 ![REST 1](../lab4/assets/REST1.png)
 
 ![REST 2](../lab4/assets/RESTFinal.png)
 
-Ran Flask server via hello_world.py and view app:
+Ran Flask server via hello_world.py and viewed app:
 
 ![flask app](../lab4/assets/flask.png)
