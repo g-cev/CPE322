@@ -192,8 +192,8 @@ center footer
 
 ### Ran PlantUML to generate intrusiondetection.png:
 
-![generated png](../lab9/assets/7.PNG)
+![generated png](../lab9/assets/7.png)
 
-![intrusion detection png](../lab9/assets/intrusiondetection.PNG)
+![intrusion detection png](../lab9/assets/intrusiondetection.png)
 
 
