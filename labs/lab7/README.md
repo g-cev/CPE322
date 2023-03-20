@@ -14,9 +14,7 @@ Then, I ran thingspeak_cpu_loop.py or thinkspeak_feed.py in a demo folder and co
 After running the programs and including the API key generated in ThingSpeak, I was able to see the result channels below.
 It was interesting to see the spike in the CPU chart since I had the program running while closing my laptop and moving somewhere else:
 
-(API KEY screenshot was edited out)
-
-![connecting channels](../lab7/assets/API2.PNG)
+(API KEY screenshots was edited out)
 
 ![channel results](../lab7/assets/API3.PNG)
 
