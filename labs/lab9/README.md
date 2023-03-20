@@ -15,7 +15,7 @@
 
 IntrusionDetection.yin
 
-'''
+```
 <?xml version="1.0" encoding="UTF-8"?>
 <module name="intrusiondetection"
         xmlns="urn:ietf:params:xml:ns:yang:yin:1"
@@ -143,11 +143,11 @@ the system.</text>
   </notification>
 </module>
 
-'''
+```
 
 IntrusionDetection.uml
 
-'''
+```
 'Download plantuml from http://plantuml.sourceforge.net/
 'Generate png with java -jar plantuml.jar <file>
 'Output in img/<module>.png
@@ -188,7 +188,7 @@ center footer
  endfooter
 @enduml
 
-'''
+```
 
 ### Ran PlantUML to generate intrusiondetection.png:
 
