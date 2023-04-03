@@ -1,15 +1,21 @@
 # Lab 8: Data Analysis
 
-### Procedure
+## Procedure
 
-Installed Python packages:
+### Installed Python packages, saved the Lab 7 Google sheet in CSV format to ~/demo, and copied plt_final.py plt_cv2.py to same directory:
 
-Saved the Lab 7 Google sheet in CSV format to ~/demo:
+![screenshot of CPU data](../lab8/assets/cpudata_ss.PNG)
 
-Copied ~/iot/lesson8/plt_final.py and plt_cv2.py to ~/demo:
+![saved CSV sheet to demo](../lab8/assets/1.PNG)
 
-Edited plt_final.py and plt_cv2.py to read the CSV file with customized plot titles:
+### Edited plt_final.py and plt_cv2.py with GNU nano to read the CSV file with customized plot titles:
 
-Ran plt_final.py and plt_cv2.py:
+![changing plot titles with nano](../lab8/assets/changing_param.PNG)
 
-lab 4, 8 are rpi
+### Ran plt_final.py and plt_cv2.py:
+
+![plot final output](../lab8/assets/plt_final_output.PNG)
+
+![plot cv2 output](../lab8/assets/plt_cv2_output.PNG)
+
+
