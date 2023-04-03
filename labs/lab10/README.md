@@ -3,7 +3,6 @@
 ## Procedure
 
 ### Ran hash_value.py twice and compared results:
-First run:
 
 ![hash value run 1 and 2](../lab10/assets/hashval_term.PNG)
 
