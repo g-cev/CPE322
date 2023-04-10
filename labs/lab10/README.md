@@ -16,7 +16,7 @@
 
 ### Cloned Python blockchain app
 
-![clone python blockchain app](../lab10/assets/pyBlockchain.PNG)
+![clone python blockchain app](../lab10/assets/pyBlockhain.PNG)
 
 ### Uncommented the last line of node_server.py
 
