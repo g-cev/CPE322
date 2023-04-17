@@ -14,7 +14,7 @@
 
 ### Ran plt_final.py and plt_cv2.py:
 
-![plot final output](../lab8/assets/plt_final_output.PNG)
+![plot final output](../lab8/assets/plt_final_output2.PNG)
 
 ![plot cv2 output](../lab8/assets/plt_cv2_output.PNG)
 
